@@ -8,7 +8,7 @@ body {
 
 nav {
     margin: 40px auto 0 auto;
-    width: 250px;
+    width: 400px;
     border-radius: 50px;
     background: #212431;
 }
@@ -47,4 +47,32 @@ h1 strong {
 
 img.about {
     opacity: 0.5;
+}
+
+p{
+    color:white;
+    margin-top: 60px;
+    margin-left: 100px;  
+    margin-right: 100px;
+    text-align: left;
+    font-size: medium;
+}
+
+h2 {
+    color:white;
+    margin-top: 60px;
+    margin-left: 100px;  
+    margin-right: 100px;
+    text-align: left;
+    font-size: x-large;
+}
+
+h3 {
+    color:white;
+    margin-top: 60px;
+    margin-left: 100px;  
+    margin-right: 100px;
+    text-align: left;
+    font-size: large;
+    
 }
